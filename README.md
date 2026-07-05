@@ -79,4 +79,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
