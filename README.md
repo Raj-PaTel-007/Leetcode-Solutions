@@ -8,6 +8,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0001-two-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,12 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
