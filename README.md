@@ -12,6 +12,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -99,4 +100,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 <!---LeetCode Topics End-->
