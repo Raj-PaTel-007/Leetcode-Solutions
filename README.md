@@ -36,6 +36,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0009-palindrome-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0006-zigzag-conversion](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,4 +126,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
