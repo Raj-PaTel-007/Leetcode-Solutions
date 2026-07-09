@@ -87,6 +87,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Dynamic Programming
 |  |
 | ------- |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
