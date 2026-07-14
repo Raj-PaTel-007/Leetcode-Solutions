@@ -37,6 +37,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1331-rank-transform-of-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -64,6 +65,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0008-string-to-integer-atoi](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -168,6 +170,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -178,6 +181,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Bit Manipulation
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
