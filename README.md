@@ -12,6 +12,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -74,10 +75,12 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -113,6 +116,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -203,4 +207,12 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
