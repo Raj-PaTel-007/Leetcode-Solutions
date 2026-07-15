@@ -1,32 +1,39 @@
 #define ll long long int
-ll M = 1e9 + 7;
-
-int fun(int row,int col,vector<vector<int>>&grid,int k,int sum, vector<vector<vector<int>>>&dp){
-    int n = grid.size();
-    int m = grid[0].size();
-    if(row == n-1 && col == m-1){
-        if((sum+grid[row][col])% k == 0) return 1;
-        return 0;
-    }
-    if(dp[row][col][sum] != -1) return dp[row][col][sum];
-    int ans = 0;
-    if(row + 1 < n){
-        ans = (ans + fun(row + 1,col,grid,k,(sum + grid[row][col])%k,dp))%M;
-    }
-    if(col + 1  < m){
-         ans = (ans + fun(row ,col + 1,grid,k,(sum + grid[row][col])%k,dp))%M;
-    }
-    return dp[row][col][sum] = ans;
-}
 
 class Solution {
 public:
+
+    ll M = 1e9 + 7;
+
     int numberOfPaths(vector<vector<int>>& grid, int k) {
+
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<vector<int>>> dp(n,
-      vector<vector<int>>(m,
-        vector<int>(k, -1)));
-        return fun(0,0,grid,k,0,dp);
+
+        vector<vector<vector<int>>> dp(n,vector<vector<int>>(m, vector<int>(k, 0)));
+        for(int sum = 0; sum < k; sum++) {
+            if((sum + grid[n-1][m-1]) % k == 0) {
+                dp[n-1][m-1][sum] = 1;
+            }
+        }
+        for(int row = n-1; row >= 0; row--) {
+            for(int col = m-1; col >= 0; col--) {
+                if(row == n-1 && col == m-1)
+                    continue;
+                for(int sum = 0; sum < k; sum++) {
+                    int ans = 0;
+                    int newSum = (sum + grid[row][col]) % k;
+                    if(row + 1 < n) {
+                        ans = (ans + dp[row+1][col][newSum]) % M;
+                    }
+                    if(col + 1 < m) {
+                        ans = (ans + dp[row][col+1][newSum]) % M;
+                    }
+                    dp[row][col][sum] = ans;
+                }
+            }
+        }
+
+        return dp[0][0][0];
     }
 };
