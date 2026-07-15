@@ -148,6 +148,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1068-product-sales-analysis-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
