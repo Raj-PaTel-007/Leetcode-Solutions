@@ -17,6 +17,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -149,6 +150,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -199,6 +201,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
