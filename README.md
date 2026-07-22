@@ -93,6 +93,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1316-distinct-echo-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -242,6 +243,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
