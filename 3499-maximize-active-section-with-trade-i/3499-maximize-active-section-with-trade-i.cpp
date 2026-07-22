@@ -1,39 +1,70 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-        s=s+ '1';
-        int flag=0;
-        int flag2=0;
-        int flag3=0;
-        int c2=0;
-        int c1=0;
-        int maxi=0;
-        int count=0;
-        
-        for(int i=0;i<s.size();i++){
-            if(s[i] =='1')count++;
-            if(s[i]=='0'){
-                if(flag2==0){
-                c1++;
-                flag=1;
-                }
-                else{
-                    c2++;
-                    flag3=1;
-                 }
-            }
-            else if(s[i]=='1' && flag==1 ){ 
-                flag2=1;
-                if(flag3==1){
-                maxi = max(maxi,c1+c2);
-                c1=c2;
-                c2=0;
-                flag3=0;
-                }
-            }
-
+        int ans = 0;
+        int n = s.size();
+        int cnt = 0;
+        int idx = -1;
+        for(int i=0;i<n;i++){
+            if(s[i] == '1')cnt++;
         }
-        
-        return count+maxi-1;
+        ans = max(ans,cnt);
+        bool f1 = false;
+        bool f2 = false;
+        bool f3 = false;
+        cnt = 0;
+        int raj = 0;
+        int cnt0 = 0;
+        int ans0 = 0;
+        for(int i=0;i<n;i++){
+            if(s[i] == '1'){
+                if(f1 && !f2){
+                    f2 = true;
+                }
+                else if(f1 && f2 && f3){
+                    if(cnt0 >= ans0){
+                        ans0 = cnt0;
+                        ans = cnt;
+                        idx = i - 1;
+                    }
+                    cnt = raj;
+                    cnt0 = raj;
+                    raj = 0;
+                    f1 = true;
+                    f2 = true;
+                    f3 = false;
+                }
+                cnt++;
+            }
+            else{
+                if(!f1){
+                    f1 = true;
+                }
+                else if(f1 && f2){
+                    f3 = true;
+                }
+                if(f1 && f2){
+                    raj++;
+                }
+                cnt++;
+                cnt0++;
+            }
+        }
+        if(f1 && f2 && f3){
+            if(cnt0 > ans0){
+                ans = cnt;
+                idx = n-1;
+            }
+        }
+        int p = ans;
+        while(p-- && idx >= 0){
+            s[idx] = '1';
+            idx--;
+        }
+        cnt = 0;
+        for(int i=0;i<n;i++){
+            if(s[i] == '1')cnt++;
+        }
+        return max(ans,cnt);
     }
 };
