@@ -7,10 +7,6 @@ public:
         for(auto it : mp){
             int a = it.first;
             int b = it.second;
-            if(a == 0){
-                ans += b;
-                continue;
-            }
             int cnt = b/(a+1);
             if(b % (a+1) == 0) ans += cnt*(a+1);
             else ans += (cnt +1)*(a+1); 
