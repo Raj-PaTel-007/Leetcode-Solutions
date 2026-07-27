@@ -94,6 +94,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0006-zigzag-conversion](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -318,6 +319,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
