@@ -18,6 +18,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -53,6 +54,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0041-first-missing-positive](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0771-jewels-and-stones](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -72,6 +74,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0007-reverse-integer](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -252,6 +255,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
