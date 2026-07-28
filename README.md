@@ -141,11 +141,13 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Depth-First Search
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -310,10 +312,12 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Tree
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Combinatorics
 |  |
