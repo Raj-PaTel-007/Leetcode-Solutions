@@ -2,35 +2,33 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         int n = s.size();
-        vector<int> h(26,0);
-
+        vector<int>hash(26,0);
         for(int i=0;i<n;i++){
-            h[s[i]-'a']++;
+            hash[s[i] - 'a']++;
         }
-
         string ans = "";
         bool odd = false;
         char ch;
-
         for(int i=0;i<26;i++){
-            int cnt = h[i]/2;
-
-            while(cnt--){
-                ans += char('a'+i);
-            }
-
-            if(h[i]&1){
+            int num = hash[i];
+            if(num & 1){
                 odd = true;
-                ch = char('a'+i);
+                ch  = char('a' + i);
+                int cnt = (num/2);
+                while(cnt--){
+                    ans += char('a' + i);
+                }
+            }
+            else{
+                 int cnt = (num/2);
+                while(cnt--){
+                    ans += char('a' + i);
+                }
             }
         }
-
-        string t = ans;
+        string temp = ans;
         reverse(ans.begin(),ans.end());
-
-        if(odd)
-            return t + ch + ans;
-
-        return t + ans;
+        if(odd) return temp + ch + ans;
+       return temp + ans;
     }
 };
