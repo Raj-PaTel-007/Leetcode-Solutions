@@ -141,6 +141,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -233,6 +234,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -312,11 +314,13 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Combinatorics
