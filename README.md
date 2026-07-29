@@ -24,6 +24,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0918-maximum-sum-circular-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -113,6 +114,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1071-greatest-common-divisor-of-strings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1316-distinct-echo-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -132,6 +134,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -210,6 +213,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0015-3sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -253,6 +257,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -319,6 +324,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Trie
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1316-distinct-echo-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1316-distinct-echo-substrings) |
 ## Tree
 |  |
