@@ -70,6 +70,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -128,6 +129,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -231,6 +233,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -281,6 +284,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -299,6 +303,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
