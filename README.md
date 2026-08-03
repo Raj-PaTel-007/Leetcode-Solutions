@@ -109,6 +109,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -117,6 +118,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0006-zigzag-conversion](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -194,6 +196,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -304,6 +307,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
