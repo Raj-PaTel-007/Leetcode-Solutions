@@ -15,6 +15,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -62,6 +63,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0355-design-twitter](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0771-jewels-and-stones](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -328,6 +330,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -361,6 +364,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Trie
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1316-distinct-echo-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1316-distinct-echo-substrings) |
 ## Tree
