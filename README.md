@@ -228,6 +228,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0015-3sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -237,6 +238,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0015-3sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -283,6 +285,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -379,6 +382,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -427,4 +431,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
