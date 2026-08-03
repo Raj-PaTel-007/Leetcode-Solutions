@@ -19,6 +19,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -200,6 +201,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -382,10 +384,12 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
@@ -419,4 +423,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
