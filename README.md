@@ -140,6 +140,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1316-distinct-echo-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1768-merge-strings-alternately](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -249,6 +250,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
