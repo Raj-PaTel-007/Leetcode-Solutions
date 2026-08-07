@@ -177,6 +177,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -390,6 +391,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
@@ -398,6 +400,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
