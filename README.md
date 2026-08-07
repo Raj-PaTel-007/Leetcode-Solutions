@@ -176,6 +176,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -220,6 +221,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0918-maximum-sum-circular-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -383,6 +385,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Binary Tree
@@ -390,6 +393,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Combinatorics
@@ -454,4 +458,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
