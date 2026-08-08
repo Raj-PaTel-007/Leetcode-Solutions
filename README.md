@@ -187,6 +187,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -411,6 +412,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -420,6 +422,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
