@@ -72,6 +72,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0041-first-missing-positive](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0355-design-twitter](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0433-minimum-genetic-mutation](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0771-jewels-and-stones](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -140,6 +141,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0771-jewels-and-stones](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -201,6 +203,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -502,4 +505,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
