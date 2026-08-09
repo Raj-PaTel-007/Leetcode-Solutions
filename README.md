@@ -30,6 +30,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -107,6 +108,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -244,6 +246,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0790-domino-and-tromino-tiling](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -354,6 +357,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -487,6 +491,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 ## Longest Increasing Subsequence
@@ -513,4 +518,12 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
