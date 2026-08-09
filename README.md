@@ -252,6 +252,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -526,4 +527,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Memoization
+|  |
+| ------- |
+| [2318-number-of-distinct-roll-sequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2318-number-of-distinct-roll-sequences) |
 <!---LeetCode Topics End-->
