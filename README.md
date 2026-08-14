@@ -112,6 +112,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0009-palindrome-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -184,6 +185,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
