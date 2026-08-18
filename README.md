@@ -122,6 +122,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
+| [0829-consecutive-numbers-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0899-orderly-queue](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -431,6 +432,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1291-sequential-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
