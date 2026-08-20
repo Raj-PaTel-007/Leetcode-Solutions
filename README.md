@@ -64,6 +64,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -369,6 +370,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -501,12 +503,14 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0307-range-sum-query-mutable](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
