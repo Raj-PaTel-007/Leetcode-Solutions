@@ -63,6 +63,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -367,6 +368,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1535-find-the-winner-of-an-array-game](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
