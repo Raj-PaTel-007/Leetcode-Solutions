@@ -65,6 +65,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3101-count-alternating-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3101-count-alternating-subarrays) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -135,6 +136,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3101-count-alternating-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3101-count-alternating-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
