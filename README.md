@@ -53,6 +53,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2233-maximum-product-after-k-increments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -382,6 +383,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [2233-maximum-product-after-k-increments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -423,6 +425,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2233-maximum-product-after-k-increments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
