@@ -24,6 +24,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -305,6 +306,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -377,6 +379,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
