@@ -154,6 +154,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
