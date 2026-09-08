@@ -99,6 +99,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1542-find-longest-awesome-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1542-find-longest-awesome-substring) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -185,6 +186,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1316-distinct-echo-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1316-distinct-echo-substrings) |
+| [1542-find-longest-awesome-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1542-find-longest-awesome-substring) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -447,6 +449,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1542-find-longest-awesome-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1542-find-longest-awesome-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
