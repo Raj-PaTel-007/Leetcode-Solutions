@@ -59,6 +59,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
@@ -272,6 +273,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -315,6 +317,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
@@ -637,4 +640,12 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0899-orderly-queue) |
+## Topological Sort
+|  |
+| ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
