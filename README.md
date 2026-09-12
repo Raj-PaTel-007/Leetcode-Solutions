@@ -144,6 +144,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3101-count-alternating-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3101-count-alternating-subarrays) |
@@ -307,6 +308,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1406-stone-game-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -447,6 +449,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1402-reducing-dishes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -468,6 +471,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1291-sequential-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
