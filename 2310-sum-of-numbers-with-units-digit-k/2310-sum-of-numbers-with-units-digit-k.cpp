@@ -1,57 +1,42 @@
 class Solution {
 public:
-
     vector<vector<int>> dp;
 
-    int fun(int idx, int sum, int val, int k, int num) {
-        if (sum == num) return 0;
-        if (sum > num) return INT_MAX - 1;
-        if (idx > num) return INT_MAX - 1;
+    int fun(int idx, int sum, vector<int>& a, int num) {
+        if (sum == num)
+            return 0;
 
-        if (dp[sum][val] != -1)
-            return dp[sum][val];
+        if (sum > num || idx == a.size())
+            return 1e9;
 
-        int ans = INT_MAX - 1;
+        if (dp[idx][sum] != -1)
+            return dp[idx][sum];
 
-        if (val == 0) {
-            ans = min(ans, fun(idx, sum + k, k, k, num));
-            ans = min(ans, 1 + fun(idx + 1, sum + k, 0, k, num));
-        }
-        else {
-            string p = to_string(val);
-            int a = p.size();
+        int take = 1 + fun(idx, sum + a[idx], a, num);
 
-            for (int i = 1; i <= 9; i++) {
-                int newVal = i * pow(10, a) + val;
+        int notTake = fun(idx + 1, sum, a, num);
 
-                ans = min(ans,
-                         fun(idx, sum - val + newVal,
-                             newVal, k, num));
-
-                ans = min(ans,
-                         1 + fun(idx + 1, sum - val + newVal,
-                             0, k, num));
-            }
-        }
-
-        return dp[sum][val] = ans;
+        return dp[idx][sum] = min(take, notTake);
     }
 
     int minimumNumbers(int num, int k) {
-        if (k == 0) {
-            if (num == 0) return k;
-            if (num % 10 != 0) return -1;
-            return 1;
+        if (num == 0)
+            return 0;
+
+        vector<int> a;
+
+        for (int x = k; x <= num; x += 10) {
+            if (x != 0)
+                a.push_back(x);
         }
-       if(num % 10 == k) return 1;
-        if (num == 0) return 0;
 
-        dp.assign(num + 1,vector<int>(num + 1,-1));
+        dp.assign(a.size() + 1, vector<int>(num + 1, -1));
 
-        int ans = fun(0, 0, 0, k, num);
+        int ans = fun(0, 0, a, num);
 
-        if (ans >= 1e5) return -1;
+        if (ans >= 1e9)
+            return -1;
 
-        return ans + 1;
+        return ans;
     }
 };
