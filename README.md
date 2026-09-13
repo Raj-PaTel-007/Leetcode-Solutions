@@ -130,6 +130,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0002-add-two-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -290,6 +291,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0403-frog-jump](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0403-frog-jump) |
+| [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -458,6 +460,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1542-find-longest-awesome-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1542-find-longest-awesome-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -576,6 +579,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -622,6 +626,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Memoization
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2318-number-of-distinct-roll-sequences) |
 ## Merge Sort
 |  |
@@ -656,4 +661,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
