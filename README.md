@@ -199,6 +199,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1768-merge-strings-alternately](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -314,6 +315,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -340,6 +342,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -453,6 +456,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
