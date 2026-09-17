@@ -38,6 +38,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -231,6 +232,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -311,6 +313,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1140-stone-game-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-reducing-dishes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
@@ -363,6 +366,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
