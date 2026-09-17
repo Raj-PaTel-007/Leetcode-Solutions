@@ -65,6 +65,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -231,6 +233,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1187-make-array-strictly-increasing](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -320,6 +323,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -367,6 +371,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
