@@ -241,6 +241,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3613-minimize-maximum-component-cost](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3613-minimize-maximum-component-cost) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3613-minimize-maximum-component-cost](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3613-minimize-maximum-component-cost) |
 ## Graph Theory
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3310-remove-methods-from-project](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3613-minimize-maximum-component-cost](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3613-minimize-maximum-component-cost) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -381,6 +384,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3613-minimize-maximum-component-cost](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3613-minimize-maximum-component-cost) |
 | [3731-find-missing-elements](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
