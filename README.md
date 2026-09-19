@@ -76,6 +76,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -333,6 +334,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -345,6 +347,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -492,6 +495,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1542-find-longest-awesome-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1542-find-longest-awesome-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
