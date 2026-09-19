@@ -180,6 +180,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -303,6 +304,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0403-frog-jump](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0403-frog-jump) |
@@ -351,6 +353,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -701,4 +704,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
