@@ -128,6 +128,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0355-design-twitter](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0355-design-twitter) |
 ## Math
 |  |
@@ -357,6 +358,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0015-3sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0443-string-compression) |
