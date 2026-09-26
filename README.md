@@ -24,6 +24,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,6 +101,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -597,12 +599,14 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0071-simplify-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
