@@ -212,6 +212,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1542-find-longest-awesome-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1542-find-longest-awesome-substring) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -607,6 +608,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0739-daily-temperatures](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -727,4 +729,5 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
