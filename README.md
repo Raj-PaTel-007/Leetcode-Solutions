@@ -144,6 +144,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0009-palindrome-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0593-valid-square](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -722,6 +723,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 ## Manacher
 |  |
