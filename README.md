@@ -193,6 +193,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0006-zigzag-conversion](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
@@ -318,6 +319,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -432,6 +434,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 ## Simulation
@@ -732,6 +735,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
