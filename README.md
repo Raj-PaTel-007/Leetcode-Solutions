@@ -62,6 +62,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2233-maximum-product-after-k-increments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -161,6 +162,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3101-count-alternating-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3101-count-alternating-subarrays) |
