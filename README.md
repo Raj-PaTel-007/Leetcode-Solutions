@@ -73,6 +73,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3101-count-alternating-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3101-count-alternating-subarrays) |
@@ -123,6 +124,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -475,6 +477,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
