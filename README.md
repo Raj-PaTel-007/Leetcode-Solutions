@@ -275,6 +275,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
@@ -568,6 +569,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
@@ -578,6 +580,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
@@ -748,4 +751,8 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0678-valid-parenthesis-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
