@@ -95,6 +95,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -485,6 +487,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
