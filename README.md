@@ -61,6 +61,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2233-maximum-product-after-k-increments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -358,6 +359,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1510-stone-game-iv](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -374,6 +376,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -760,6 +763,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0678-valid-parenthesis-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search Tree
 |  |
 | ------- |
