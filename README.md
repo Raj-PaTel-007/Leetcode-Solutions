@@ -181,6 +181,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -522,6 +523,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
