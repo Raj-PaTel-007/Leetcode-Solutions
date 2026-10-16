@@ -83,6 +83,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [3101-count-alternating-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3101-count-alternating-subarrays) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3208-alternating-groups-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -259,6 +260,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3208-alternating-groups-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3208-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
