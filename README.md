@@ -32,6 +32,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -355,6 +356,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0790-domino-and-tromino-tiling](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0813-largest-sum-of-averages](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0813-largest-sum-of-averages) |
@@ -466,6 +468,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0022-generate-parentheses](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -546,6 +549,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1542-find-longest-awesome-substring](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1542-find-longest-awesome-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -725,6 +729,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2318-number-of-distinct-roll-sequences) |
 ## Merge Sort
 |  |
@@ -763,6 +768,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Geometry
 |  |
 | ------- |
