@@ -180,6 +180,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2029-stone-game-ix](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3101-count-alternating-subarrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3101-count-alternating-subarrays) |
@@ -243,6 +244,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2409-count-days-spent-together](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
