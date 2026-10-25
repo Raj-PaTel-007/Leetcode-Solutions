@@ -43,6 +43,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1254-number-of-closed-islands](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -304,6 +305,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0437-path-sum-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0472-concatenated-words](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0872-leaf-similar-trees](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -315,6 +317,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | ------- |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [1254-number-of-closed-islands](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -326,6 +329,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -392,6 +396,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [1254-number-of-closed-islands](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
