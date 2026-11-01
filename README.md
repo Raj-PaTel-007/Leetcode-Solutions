@@ -21,6 +21,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0403-frog-jump](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0472-concatenated-words](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -164,6 +165,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0002-add-two-numbers](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0593-valid-square) |
