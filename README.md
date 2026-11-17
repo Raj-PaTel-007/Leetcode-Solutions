@@ -14,6 +14,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0078-subsets](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0307-range-sum-query-mutable](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -280,6 +281,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -430,6 +432,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [0016-3sum-closest](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0086-partition-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/0443-string-compression) |
