@@ -258,6 +258,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
