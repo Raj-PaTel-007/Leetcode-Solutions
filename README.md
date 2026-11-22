@@ -253,6 +253,7 @@ Consistent LeetCode problem-solving for DSA and interview preparation..
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Raj-PaTel-007/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
